@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">xPixel 6 Experience</string>
+    <string name="xposed_desc">Pixel 6 features for earlier Pixel devices</string>
+</resources>
